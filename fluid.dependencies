@@ -1,0 +1,6 @@
+[
+  {
+    "repository" : "vendor_xiaomi_shiva",
+    "target_path": "vendor/xiaomi/shiva"
+  }
+]
