@@ -29,7 +29,7 @@ $(call inherit-product, device/xiaomi/shiva/device.mk)
 $(call inherit-product, vendor/fluid/config/common_full_phone.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := shiva
+PRODUCT_DEVICE := fluid_shiva
 PRODUCT_NAME := lineage_shiva
 PRODUCT_BRAND := Poco
 PRODUCT_MODEL := Poco M2
