@@ -22,7 +22,6 @@ cc_binary {
     shared_libs: [
         "libhardware",
         "libhidlbase",
-        "libhidltransport",
         "liblog",
         "libutils",
         "android.hardware.light@2.0",
