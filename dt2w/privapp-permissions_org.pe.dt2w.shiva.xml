@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <permissions>
-    <privapp-permissions package="org.pe.dt2w.lancelot">
+    <privapp-permissions package="org.pe.dt2w.shiva">
         <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
     </privapp-permissions>
 </permissions>
