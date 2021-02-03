@@ -34,8 +34,8 @@ android_app {
 }
 
 prebuilt_etc {
-    name: "privapp-permissions_org.pe.dt2w.lancelot",
+    name: "privapp-permissions_org.pe.dt2w.shiva",
     sub_dir: "permissions",
-    src: "privapp-permissions_org.pe.dt2w.lancelot.xml",
+    src: "privapp-permissions_org.pe.dt2w.shiva.xml",
     filename_from_src: true,
 }
