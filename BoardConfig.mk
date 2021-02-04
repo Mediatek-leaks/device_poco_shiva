@@ -79,12 +79,6 @@ BOARD_MKBOOTIMG_ARGS += --header_version $(BOARD_BOOTIMG_HEADER_VERSION)
 TARGET_OTA_ASSERT_DEVICE := shiva lancelot
 
 # Avb
-# Avb
-# Avb
-# Avb
-# 
-# Avb
-# Avb
 BOARD_AVB_MAKE_VBMETA_IMAGE_ARGS += --set_hashtree_disabled_flag
 BOARD_AVB_MAKE_VBMETA_IMAGE_ARGS += --flags 2
 
