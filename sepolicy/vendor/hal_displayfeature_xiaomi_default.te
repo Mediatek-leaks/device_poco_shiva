@@ -20,4 +20,3 @@ allow hal_displayfeature_xiaomi_default init:unix_stream_socket { connectto rw_s
 get_prop(hal_displayfeature_xiaomi_default, persist_displayfeature_prop)
 get_prop(hal_displayfeature_xiaomi_default, hwservicemanager_prop)
 
-binder_call(hal_displayfeature_xiaomi_default, mtk_hal_pq)
