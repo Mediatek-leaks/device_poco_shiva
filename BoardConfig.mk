@@ -60,7 +60,7 @@ TARGET_BOARD_PLATFORM_GPU := Mali-G52 MC2
 # Kernel
 BOARD_KERNEL_CMDLINE := bootopt=64S3,32N2,64N2 androidboot.usbconfigfs=true androidboot.selinux=permissive buildvariant=eng sys.usb.configfs=1
 BOARD_KERNEL_BASE := 0x40078000
-BOARD_KERNEL_IMAGE_NWMR := Image.gz-dtb
+BOARD_KERNEL_IMAGE_NAME := Image.gz-dtb
 BOARD_KERNEL_PAGESIZE := 2048
 BOARD_RAMDISK_OFFSET := 0x07c08000
 BOARD_KERNEL_TAGS_OFFSET := 0x0bc08000
